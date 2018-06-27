@@ -23,20 +23,34 @@ As the previous has described, it should be simple vfx search engine. No distruc
   - it is important to try harder and simplify the explanation at the core of te problem and not to use unecessery distructions
   - images could be cropped snapshots of taidy node tree
 
+
 ## What do you need to be able to connect to the project
 - any text editor will do but easyer is to download and install [Atom.io](http://atom.io) on any platform
 - install Atom's packages:
->![](assets/markdown-img-paste-2018062720120129.png)
-for writing posts which all our content will be based on
-![](assets/markdown-img-paste-20180627201345373.png) this will help you to se the markdown code easyer with colored syntax
-![](assets/markdown-img-paste-20180627201421366.png)
-usefull tool for synchronized scrolling with the markdown text preview window
-![](assets/markdown-img-paste-2018062720150706.png)
-very usefull toolbar like in any document editor
-![](assets/markdown-img-paste-20180627201532286.png)
-in case you need to work with tables
-![](assets/markdown-img-paste-20180627201556678.png)
-it is great tool but it is having still usolved problem on my platform so in case it tells you after first try that it is broken then follow this instructions <https://github.com/cocoakekeyu/markdown-img-paste/issues/23>. It worked for me. enough to just simply go to `[HOME_DIR].atom\packages\markdown-img-paste\lib\markdown-img-paste.coffee` file and change `img.toPng` to `img.toPNG` on line 54.
+
+    ><div style="float:left;margin:0 10px 10px 0">
+    ![](assets/markdown-img-paste-2018062720120129.png)</div>
+      > for writing posts which all our content will be based on
+
+    ><div style="float:left;margin:0 10px 10px 0">
+    ![](assets/markdown-img-paste-20180627201345373.png)</div>
+      > this will help you to se the markdown code easyer with colored syntax
+
+    ><div style="float:right;margin:0 10px 10px 0">
+    ![](assets/markdown-img-paste-20180627201421366.png)</div>
+      > usefull tool for synchronized scrolling with the markdown text preview window
+
+    ><div style="float:right;margin:0 10px 10px 0">
+    ![](assets/markdown-img-paste-2018062720150706.png)</div>
+      > very usefull toolbar like in any document editor
+
+    ><div style="float:right;margin:0 10px 10px 0">
+    ![](assets/markdown-img-paste-20180627201532286.png)</div>
+      > in case you need to work with tables
+
+    ><div style="float:right;margin:0 10px 10px 0">
+    ![](assets/markdown-img-paste-20180627201556678.png)</div>
+      > it is great tool but it is having still usolved problem on my platform so in case it tells you after first try that it is broken then follow this instructions <https://github.com/cocoakekeyu/markdown-img-paste/issues/23>. It worked for me. enough to just simply go to `[HOME_DIR].atom\packages\markdown-img-paste\lib\markdown-img-paste.coffee` file and change `img.toPng` to `img.toPNG` on line 54.
 
 - very usefull free app for windows is Snipping Tool, which allows you to simply grab only rectangular crop of your screen and then **ctrl-v** it in the new line and it will automatically create link to savet image in relative folder of your clone of repository.
 
@@ -48,9 +62,26 @@ it is great tool but it is having still usolved problem on my platform so in cas
   - read and learn from project guidlines
 
 --------------------------------------
+> ## This is a header.
+>
+> 1.   This is the first list item.
+> 2.   This is the second list item.
+>
+> Here's some example code:
+>
+>     return shell_exec("echo $input | $markdown_script");
+
+<div class="footer">
+    &copy; 2004 Foo Corporation
+</div>
 
 ```python
 def foo():
     if not bar:
         return True
 ```
+
+<div style="float:right;margin:0 10px 10px 0">
+    ![](assets/markdown-img-paste-20180628003914269.png)
+</div>
+this i a style
