@@ -30,23 +30,23 @@ As the previous has described, it should be simple vfx search engine. No distruc
 
 ><div style="float:left;margin:0 10px 10px 0">
 ![](assets/markdown-img-paste-2018062720120129.png)</div>
-  > for writing posts which all our content will be based on
+> for writing posts which all our content will be based on
 
 ><div style="float:left;margin:0 10px 10px 0">
 ![](assets/markdown-img-paste-20180627201345373.png)</div>
-  > this will help you to se the markdown code easyer with colored syntax
+> this will help you to se the markdown code easyer with colored syntax
 
 ><div style="float:right;margin:0 10px 10px 0">
 ![](assets/markdown-img-paste-20180627201421366.png)</div>
-  > usefull tool for synchronized scrolling with the markdown text preview window
+> usefull tool for synchronized scrolling with the markdown text preview window
 
 ><div style="float:right;margin:0 10px 10px 0">
 ![](assets/markdown-img-paste-2018062720150706.png)</div>
-  > very usefull toolbar like in any document editor
+> very usefull toolbar like in any document editor
 
 ><div style="float:right;margin:0 10px 10px 0">
 ![](assets/markdown-img-paste-20180627201532286.png)</div>
-  > in case you need to work with tables
+> in case you need to work with tables
 
 ><div style="float:right;margin:0 10px 10px 0">
 ![](assets/markdown-img-paste-20180627201556678.png)</div>
