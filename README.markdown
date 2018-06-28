@@ -28,29 +28,29 @@ As the previous has described, it should be simple vfx search engine. No distruc
 - any text editor will do but easyer is to download and install [Atom.io](http://atom.io) on any platform
 - install Atom's packages:
 
-    ><div style="float:left;margin:0 10px 10px 0">
-    ![](assets/markdown-img-paste-2018062720120129.png)</div>
-      > for writing posts which all our content will be based on
+><div style="float:left;margin:0 10px 10px 0">
+![](assets/markdown-img-paste-2018062720120129.png)</div>
+  > for writing posts which all our content will be based on
 
-    ><div style="float:left;margin:0 10px 10px 0">
-    ![](assets/markdown-img-paste-20180627201345373.png)</div>
-      > this will help you to se the markdown code easyer with colored syntax
+><div style="float:left;margin:0 10px 10px 0">
+![](assets/markdown-img-paste-20180627201345373.png)</div>
+  > this will help you to se the markdown code easyer with colored syntax
 
-    ><div style="float:right;margin:0 10px 10px 0">
-    ![](assets/markdown-img-paste-20180627201421366.png)</div>
-      > usefull tool for synchronized scrolling with the markdown text preview window
+><div style="float:right;margin:0 10px 10px 0">
+![](assets/markdown-img-paste-20180627201421366.png)</div>
+  > usefull tool for synchronized scrolling with the markdown text preview window
 
-    ><div style="float:right;margin:0 10px 10px 0">
-    ![](assets/markdown-img-paste-2018062720150706.png)</div>
-      > very usefull toolbar like in any document editor
+><div style="float:right;margin:0 10px 10px 0">
+![](assets/markdown-img-paste-2018062720150706.png)</div>
+  > very usefull toolbar like in any document editor
 
-    ><div style="float:right;margin:0 10px 10px 0">
-    ![](assets/markdown-img-paste-20180627201532286.png)</div>
-      > in case you need to work with tables
+><div style="float:right;margin:0 10px 10px 0">
+![](assets/markdown-img-paste-20180627201532286.png)</div>
+  > in case you need to work with tables
 
-    ><div style="float:right;margin:0 10px 10px 0">
-    ![](assets/markdown-img-paste-20180627201556678.png)</div>
-      > it is great tool but it is having still usolved problem on my platform so in case it tells you after first try that it is broken then follow this instructions <https://github.com/cocoakekeyu/markdown-img-paste/issues/23>. It worked for me. enough to just simply go to `[HOME_DIR].atom\packages\markdown-img-paste\lib\markdown-img-paste.coffee` file and change `img.toPng` to `img.toPNG` on line 54.
+><div style="float:right;margin:0 10px 10px 0">
+![](assets/markdown-img-paste-20180627201556678.png)</div>
+  > it is great tool but it is having still usolved problem on my platform so in case it tells you after first try that it is broken then follow this instructions <https://github.com/cocoakekeyu/markdown-img-paste/issues/23>. It worked for me. enough to just simply go to `[HOME_DIR].atom\packages\markdown-img-paste\lib\markdown-img-paste.coffee` file and change `img.toPng` to `img.toPNG` on line 54.
 
 - very usefull free app for windows is Snipping Tool, which allows you to simply grab only rectangular crop of your screen and then **ctrl-v** it in the new line and it will automatically create link to savet image in relative folder of your clone of repository.
 
