@@ -82,6 +82,6 @@ def foo():
 ```
 
 <div style="float:right;margin:0 10px 10px 0">
-    ![](assets/markdown-img-paste-20180628003914269.png)
+![](assets/markdown-img-paste-20180628003914269.png)
 </div>
 this i a style
