@@ -81,9 +81,7 @@ def foo():
         return True
 ```
 
-<div style="float:right;margin:0 10px 10px 0" markdown="1">
-
+<span style="float:right;margin:0 10px 10px 0">
 ![](assets/markdown-img-paste-20180628003914269.png)
-
-</div>
+</span>
 this i a style
