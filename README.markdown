@@ -85,3 +85,40 @@ def foo():
 ![](assets/markdown-img-paste-20180628003914269.png)
 </span>
 this i a style
+### Documentation
+
+Below is the current and full documentation of QML.
+
+- [Supported hosts](#supported-hosts)
+- [Data](#data)
+- [Perspective](#perspective)
+- [Visualise order of operation](#order)
+- [Optional plugins](#optional)
+- [Plug-in documentation](#plug-in-documentation)
+- [Log messages](#log-messages)
+- [Exception messages](#exception-messages)
+
+<br>
+
+#### Supported Hosts
+
+These are the hosts automatically recognised by pyblish-qml.
+
+- Maya
+- Nuke
+- Houdini
+- Hiero
+
+<br>
+
+#### Data
+
+Some data within each Instance and Context are special to QML.
+
+| Member    | Applies to       | Behavior
+|:----------|:-----------------|:-------------------
+| `publish` | Instance         | The on/off state of the toggle.
+| `label`   | Context/Instance | Draw this instead of an instance's `name`
+| `comment` | Context          | Display and edit comment in GUI
+
+<br>
