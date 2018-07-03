@@ -68,12 +68,12 @@ As the previous has described, it should be simple vfx search engine. No distruc
 > 2.   This is the second list item.
 >
 > Here's some example code:
->
->     return shell_exec("echo $input | $markdown_script");
 
-<div class="footer">
-    &copy; 2004 Foo Corporation
-</div>
+```shell
+return shell_exec("echo $input | $markdown_script")
+```
+
+<br>
 
 ```python
 def foo():
@@ -81,9 +81,6 @@ def foo():
         return True
 ```
 
-<span style="float:right;margin:0 10px 10px 0">
-![](assets/markdown-img-paste-20180628003914269.png)
-</span>
 this i a style
 ### Documentation
 
@@ -91,12 +88,6 @@ Below is the current and full documentation of QML.
 
 - [Supported hosts](#supported-hosts)
 - [Data](#data)
-- [Perspective](#perspective)
-- [Visualise order of operation](#order)
-- [Optional plugins](#optional)
-- [Plug-in documentation](#plug-in-documentation)
-- [Log messages](#log-messages)
-- [Exception messages](#exception-messages)
 
 <br>
 
@@ -120,5 +111,3 @@ Some data within each Instance and Context are special to QML.
 | `publish` | Instance         | The on/off state of the toggle.
 | `label`   | Context/Instance | Draw this instead of an instance's `name`
 | `comment` | Context          | Display and edit comment in GUI
-
-<br>
